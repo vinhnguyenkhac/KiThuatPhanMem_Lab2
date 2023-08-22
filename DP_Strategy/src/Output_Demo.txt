@@ -1,0 +1,32 @@
+Please, select a product:
+1 - Mother board
+2 - CPU
+3 - HDD
+4 - Memory
+1
+Count: 2
+Do you wish to continue selecting products? Y/N: y
+Please, select a product:
+1 - Mother board
+2 - CPU
+3 - HDD
+4 - Memory
+1
+Count: 1
+Do you wish to continue selecting products? Y/N: n
+Please, select a payment method:
+1 - PalPay
+2 - Credit Card
+1
+Enter the user's email: abc@mail.com
+Enter the password: quata1234
+Wrong email or password!
+Enter the user's email: nguyenkhacvinh999@gmail.com
+Enter the password: vinh12345
+Wrong email or password!
+Enter the user's email: amanda@ya.com
+Enter the password: amanda1985
+Data verification has been successful.
+Pay 6600 units or Continue shopping? P/C: p
+Paying 6600 using PayPal.
+Payment has been successful.
